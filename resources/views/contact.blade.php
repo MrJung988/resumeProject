@@ -53,8 +53,8 @@
             <a href="#" target="_blank"><i class="fab fa-twitter i-color"></i></a>
             <a href="https://www.facebook.com/profile.php?id=100054489180956" target="_blank"><i class="fab fa-facebook-f i-color"></i></a>
             <a href="#" target="_blank"><i class="fab fa-instagram i-color"></i></a>
-            <a href="https://github.com/MrJung988"><i class="fa-brands fa-github i-color"></i></a>
-            <a href="https://www.linkedin.com/in/samir-karki-29450b235/"><i class="fa-brands fa-linkedin i-color"></i></a>
+            <a href="https://github.com/MrJung988" target="_blank"><i class="fa-brands fa-github i-color"></i></a>
+            <a href="https://www.linkedin.com/in/samir-karki-29450b235/" target="_blank"><i class="fa-brands fa-linkedin i-color"></i></a>
         </div>
     </x-slot>
 </x-layout>
